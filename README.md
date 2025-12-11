@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm Roman. I'm full-stack and chatbot developer. In free time contributing to open-source projects, developing a game and playing in games.
+I'm Roman. I'm a full-stack and chatbot developer. In free time contributing to open-source projects, developing a game and playing in games.
 
 [![Backend Skills](https://skillicons.dev/icons?i=py,fastapi,flask,mysql,nginx,selenium,anaconda)](https://skillicons.dev)
 
