@@ -4,7 +4,7 @@ I'm Roman from Ukraine. I'm a 18-year-old full-stack and Telegram chat-bot devel
 
 In free time, contributing to OSSs. For now, making a portfolio for a freelance.
 
-In the future, I want to create a game about my life in an surreal style to express my feelings.
+In the future, I want to create a game about my life in a surreal style to express my feelings.
 
 ## What I...
 
