@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm Roman from Ukraine. I'm a 18-year-old full-stack and Telegram chat-bot developer that using FastAPI/React/MySQL stack.
+I'm Roman from Ukraine. I'm a 19-year-old full-stack and Telegram chat-bot developer that using FastAPI/React/MySQL stack.
 
 In free time, contributing to OSSs. For now, making a portfolio for a freelance.
 
