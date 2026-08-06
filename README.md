@@ -1,12 +1,5 @@
-<a href="https://stand-with-ukraine.pp.ua/">
-  <img alt="#StandWithUkraine" src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/refs/heads/main/badges/StandWithUkraine.svg" />
-</a>
-<!-- TODO change the placeholder URL to the real one -->
-<a href="https://example.com">
-  <img alt="LGBTQ+ friendly" src="https://pride-badges.pony.workers.dev/static/v1?label=LGBTQ%2B+friendly&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982" />
-</a>
-
----
+[![#StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/refs/heads/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua/)
+[![LGBTQ+ friendly](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQ%2B+friendly&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)](https://example.com/) <!-- TODO change the placeholder URL to the real one -->
 
 # Welcome!
 
