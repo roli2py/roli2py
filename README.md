@@ -1,3 +1,13 @@
+<a href="https://stand-with-ukraine.pp.ua/">
+  <img alt="#StandWithUkraine" src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/refs/heads/main/badges/StandWithUkraine.svg" />
+</a>
+<!-- TODO change the placeholder URL to the real one -->
+<a href="https://example.com">
+  <img alt="LGBTQ+ friendly" src="https://pride-badges.pony.workers.dev/static/v1?label=LGBTQ%2B+friendly&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982" />
+</a>
+
+---
+
 # Welcome!
 
 My name is Roman and I'm 19-year-old ukrainian full-stack developer. Using FastAPI/React/MariaDB stack in general.
