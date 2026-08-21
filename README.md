@@ -1,5 +1,5 @@
 [![#StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/refs/heads/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua/)
-[![LGBTQ+ friendly](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQ%2B+friendly&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)](https://example.com/) <!-- TODO change the placeholder URL to the real one -->
+![LGBTQ+ friendly](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQ%2B+friendly&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)
 
 # Welcome!
 
