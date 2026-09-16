@@ -3,7 +3,7 @@
 
 # Welcome!
 
-My name is Roman and I'm 19-year-old ukrainian full-stack developer. Using FastAPI/React/MariaDB stack in general.
+My name is Eva and I'm 19-year-old ukrainian full-stack developer. Using FastAPI/React/MariaDB stack in general.
 
 All repositories are placed on [Codeberg](https://codeberg.org/roli2py). This account exists to redirect to my Codeberg profile, to contribute in projects which can be accessed only on GitHub and for work.
 
